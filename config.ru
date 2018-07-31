@@ -1,3 +1,3 @@
-require './config/environment'
+7require './config/environment'
 
 run App
